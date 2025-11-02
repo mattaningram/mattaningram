@@ -1,7 +1,7 @@
 # Mattan Ingram
 
 [My Website](https://mattaningram.com)  
-Hand coded with a dash of AI help.
+Hand coded and built with Astro.
 
 [Visible](https://visible.page)  
 Make your information visible with maps, calendars, and more.
